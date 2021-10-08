@@ -1,0 +1,63 @@
+body {
+    background-color:rgb(86, 150, 150);
+    width: 97%;
+    padding: 8px;
+   font-family: Arial;
+   text-align: justify;
+   padding-left: 10px;
+}
+p1, p2{
+font-size: large;
+}
+
+h1 {
+    color:rgb(119, 0, 119);
+    text-align: center;
+
+
+}
+head {
+    background-color: darkviolet;
+}
+
+button {    
+    text-align: center;
+    
+    padding: 10px;
+    margin: 10px;
+    background-color: orange  ;
+    border-radius: 10px ;
+    box-shadow: black;
+    border: thick 1px purple;
+    height: auto;
+}
+
+
+
+a { 
+    
+    text-decoration: none;
+    font-family: Helvetica, ;
+    color: black
+}
+
+
+
+img {
+
+height: 350px;
+
+}
+
+
+.cão {
+    font-size: x-large;
+
+
+}
+
+.imagem {
+
+
+
+}
